@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    text-align: center;
+}
+#container{
+    padding: 40px;
+    margin: auto;
+    width: 70%;
+    background-color: aqua;
+    
+}
+p{
+    font-size: xx-large;
+    color: rgb(129, 36, 36);
+}
+button{
+    background-color: rgb(129, 36, 36);
+    border-color: white;
+    color: white;
+}
